@@ -16,7 +16,7 @@ It’s my first hands-on AWS project as part of my cloud journey.
 `http://abuhurayra-s3-site.s3-website-us-east-1.amazonaws.com/`
 
 ## 📸 Screenshot
-![S3 Website Screenshot](../screenshots/s3-static-site.png)
+![S3 Website Screenshot](../s3.png
 
 ## 🧠 Skills Learned
 - S3 bucket management
