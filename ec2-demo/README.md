@@ -16,3 +16,6 @@ yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
 echo "<h1>Hello World from ip-172-31-30-55.ec2.internal </h1>" > /var/www/html/index.html
+
+## 📸 Screenshot
+![S3 Website Screenshot](../ec2-demo/ec2_ss.png)
